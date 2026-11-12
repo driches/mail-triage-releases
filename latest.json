@@ -1,6 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.1.0/Mail-Triage-1.1.0.zip",
-  "sha256": "0822bc5f49b405b99e797640fc4bfe72d3212c33dbb38941baebeb25086cf227",
-  "notes": "New: an Insights page. Every two weeks Mail Triage looks back over your mail and tells you about patterns it notices, like who writes most or what keeps piling up, with ideas you can save in one tap. The report is emailed to you too."
+  "version": "1.2.0",
+  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.2.0/Mail-Triage-1.2.0.zip",
+  "sha256": "d0420f165816628450892dcee0a78db983e3651cee9b0735e4acca06ff17e42b",
+  "dmg": "https://github.com/driches/mail-triage-releases/releases/download/v1.2.0/Mail-Triage-1.2.0.dmg",
+  "notes": "New: a Help window with plain answers to common questions (Help menu, menu bar, or the Help button on each screen). If Claude or Gmail gets disconnected, Mail Triage now explains what happened and gives you a button to fix it. Claude now stays signed in longer. You can check for updates from the menu bar. Settings has a fresh look."
 }
