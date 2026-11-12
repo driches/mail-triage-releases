@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.0.1/Mail-Triage-1.0.1.zip",
+  "sha256": "8b5ecfe58f523163fc31e900f8b7317b64f5cf77f2bb31891377770b850a7ea4",
+  "notes": "First update through the app. Mail Triage can now update itself: it checks once a day and offers Install and restart."
+}
