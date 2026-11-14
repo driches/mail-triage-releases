@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.3.0/Mail-Triage-1.3.0.zip",
-  "sha256": "b530337746348eb286564cf0e364ac8940842363f4efd2cdb576fabec3604d07",
-  "dmg": "https://github.com/driches/mail-triage-releases/releases/download/v1.3.0/Mail-Triage-1.3.0.dmg",
-  "notes": "New: answer buttons. Some emails now show buttons like \"I'd love to\" or \"Sorry, I can't\". Click one and Claude writes the reply, then Mail opens it for you to read, change and send yourself. Your digest email has a fresh night-garden look, and each email in it that needs you has an \"Open in Mail Triage\" link. What I've learned now shows which things you taught it were used in the last check, and offers to replace an old one when you teach it something similar."
+  "version": "1.3.1",
+  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.3.1/Mail-Triage-1.3.1.zip",
+  "sha256": "84d479cf3f5b636e9efaed603413f3a6226098e0b057b745a41a172c5d426872",
+  "dmg": "https://github.com/driches/mail-triage-releases/releases/download/v1.3.1/Mail-Triage-1.3.1.dmg",
+  "notes": "Choose how replies are written: Quick, or Ask me first, where Mail Triage asks a quick question before Claude writes your reply. New Write something else button for when no answer fits."
 }
