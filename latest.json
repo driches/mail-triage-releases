@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.3.1/Mail-Triage-1.3.1.zip",
-  "sha256": "84d479cf3f5b636e9efaed603413f3a6226098e0b057b745a41a172c5d426872",
-  "dmg": "https://github.com/driches/mail-triage-releases/releases/download/v1.3.1/Mail-Triage-1.3.1.dmg",
-  "notes": "Choose how replies are written: Quick, or Ask me first, where Mail Triage asks a quick question before Claude writes your reply. New Write something else button for when no answer fits."
+  "version": "1.4.0",
+  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.4.0/Mail-Triage-1.4.0.zip",
+  "sha256": "c01d192ba817643092a232269751b3d79e4245414e23a2fa3a1cc6a51b183373",
+  "dmg": "https://github.com/driches/mail-triage-releases/releases/download/v1.4.0/Mail-Triage-1.4.0.dmg",
+  "notes": "Read an email right on Today, and mark it read, flag it, archive it or move it to the Trash with one click, each with Undo. Today now shows progress while it sorts, and your sorted mail appears as soon as it's ready. The digest email now matches Today."
 }
