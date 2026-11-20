@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.4.0/Mail-Triage-1.4.0.zip",
-  "sha256": "c01d192ba817643092a232269751b3d79e4245414e23a2fa3a1cc6a51b183373",
-  "dmg": "https://github.com/driches/mail-triage-releases/releases/download/v1.4.0/Mail-Triage-1.4.0.dmg",
-  "notes": "Read an email right on Today, and mark it read, flag it, archive it or move it to the Trash with one click, each with Undo. Today now shows progress while it sorts, and your sorted mail appears as soon as it's ready. The digest email now matches Today."
+  "version": "1.4.1",
+  "url": "https://github.com/driches/mail-triage-releases/releases/download/v1.4.1/Mail-Triage-1.4.1.zip",
+  "sha256": "be8997af1da20608464006ab3a370c35363d6abccc52e94579523b0422f76ea0",
+  "dmg": "https://github.com/driches/mail-triage-releases/releases/download/v1.4.1/Mail-Triage-1.4.1.dmg",
+  "notes": "Uses much less of your Claude plan: each check now sorts only new emails, and sorting uses Sonnet by default. You can also add your own Anthropic key in Settings. When you press Not right, the panel now stays open so you can save what Mail Triage learned."
 }
